@@ -1,0 +1,2 @@
+Entry 1: Learned the difference between Git and GitHub.
+Entry 2: Practiced staging files and creating commits.
