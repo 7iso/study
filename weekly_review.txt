@@ -1,0 +1,1 @@
+Week 1: Git basics done. Next: GitHub and deployment.
